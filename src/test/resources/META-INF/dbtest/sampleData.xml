@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <STATIC_RESOURCE STATIC_RESOURCE_SEQ="1" TYPE="LINK" NAME="LINK_1" CONTENT="https://github.com/1"/>
+    <STATIC_RESOURCE STATIC_RESOURCE_SEQ="2" TYPE="LINK" NAME="LINK_2" CONTENT="https://github.com/2"/>
+    <STATIC_RESOURCE STATIC_RESOURCE_SEQ="3" TYPE="LINK" NAME="LINK_3" CONTENT="https://github.com/3"/>
+    <STATIC_RESOURCE STATIC_RESOURCE_SEQ="4" TYPE="LINK" NAME="LINK_4" CONTENT="https://github.com/4"/>
+</dataset>
